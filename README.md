@@ -6,8 +6,42 @@
     <th>Description
   </tr>
   <tr>
-    <td><div borderRadius=20><img src='/assets/screens/intro1.PNG'></div>
+    <td><div { border-radius:30px;}><img src='/assets/screens/intro1.PNG' width=200 height=375></div>
     <td> This is the inroduction screen of the app. This screen informs you about the app before getting started.
+  </tr>
+ 
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/loginScreen.PNG' width=200 height=375></div>
+    <td> This is the Login screen of the app. It takes your email and password before getting into the app.
+  </tr>
+  
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/signUpScreen.PNG' width=200 height=375></div>
+    <td> This is the Login screen of the app. It takes your name, email and password when you don' have an account.
+  </tr>
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/HomeScreen.PNG' width=200 height=375></div>
+    <td> This is the Home Screen screen of the app. Shows the matches you can have with different people.
+  </tr>
+  
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/requests.PNG' width=200 height=375></div>
+    <td> This is the Request screen of the app. Shows the list of people who want to match with you.
+  </tr>
+  
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/ChatsScreen.PNG' width=200 height=375></div>
+    <td> This is the Chats Screen of the app. Shows the people with whom you have chatted/ want to chat.
+  </tr>
+  
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/inbox.PNG' width=200 height=375></div>
+    <td> This is the Inbox of the chats of the app. Outay of how the inbox would look .
+  </tr>
+  
+  <tr>
+    <td><div borderRadius=20><img src='/assets/screens/profile.PNG' width=200 height=375></div>
+    <td> This is the Profile of the app. It takes your picture, name, email , bio and city .This is used when you want to update either of these things.
   </tr>
   
 </table>
