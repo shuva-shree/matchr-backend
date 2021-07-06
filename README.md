@@ -6,7 +6,7 @@
     <th>Description
   </tr>
   <tr>
-    <td><img src='/assets/screens/intro1.PNG' width=150 height=300>
+    <td><img src='/assets/screens/intro1.PNG' width=180 height=300>
     <td> This is the inroduction screen of the app. This screen informs you about the app before getting started.
   </tr>
  
