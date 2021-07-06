@@ -17,7 +17,7 @@
   
   <tr>
     <td><img src='/assets/screens/signUpScreen.PNG' width=150 height=300>
-    <td> This is the Login screen of the app. It takes your name, email and password when you don' have an account.
+    <td> This is the Sign up screen of the app. It takes your name, email and password when you don' have an account.
   </tr>
   <tr>
     <td><img src='/assets/screens/HomeScreen.PNG' width=150 height=300>
